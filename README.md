@@ -20,8 +20,8 @@
 - and it works now.
 ![alt text](https://github.com/mosamircs/landing-page/blob/master/active-state.gif?raw=true)
 ## ScreenShots
-![alt text](https://github.com/mosamircs/landing-page/blob/master/landing.png?raw=true)
-![alt text](https://github.com/mosamircs/landing-page/blob/master/section1.png?raw=true)
-![alt text](https://github.com/mosamircs/landing-page/blob/master/section2.png?raw=true)
-![alt text](https://github.com/mosamircs/landing-page/blob/master/section3.png?raw=true)
-![alt text](https://github.com/mosamircs/landing-page/blob/master/section4.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/landing-page/blob/main/landing.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/landing-page/blob/main/section1.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/landing-page/blob/main/section2.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/landing-page/blob/main/section3.png?raw=true)
+![alt text](https://github.com/devmohamedsamir/landing-page/blob/main/section4.png?raw=true)
